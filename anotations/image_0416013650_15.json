@@ -1,0 +1,97 @@
+{
+  "version": "2.5.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "black",
+      "score": 0.9253358840942383,
+      "points": [
+        [
+          520.9517822265625,
+          67.85333251953125
+        ],
+        [
+          563.5894775390625,
+          67.85333251953125
+        ],
+        [
+          563.5894775390625,
+          111.70098876953125
+        ],
+        [
+          520.9517822265625,
+          111.70098876953125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "blue",
+      "score": 0.6573160886764526,
+      "points": [
+        [
+          974.1580200195312,
+          88.28448486328125
+        ],
+        [
+          1023.7413940429688,
+          88.28448486328125
+        ],
+        [
+          1023.7413940429688,
+          136.00506591796875
+        ],
+        [
+          974.1580200195312,
+          136.00506591796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "black",
+      "score": 0.43063434958457947,
+      "points": [
+        [
+          974.3323974609375,
+          88.2384033203125
+        ],
+        [
+          1024.0438232421875,
+          88.2384033203125
+        ],
+        [
+          1024.0438232421875,
+          135.847412109375
+        ],
+        [
+          974.3323974609375,
+          135.847412109375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "../images/image_0416013650_15.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

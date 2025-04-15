@@ -1,0 +1,97 @@
+{
+  "version": "2.5.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yellow",
+      "score": 0.8250721096992493,
+      "points": [
+        [
+          850.7642211914062,
+          160.01531982421875
+        ],
+        [
+          907.0963745117188,
+          160.01531982421875
+        ],
+        [
+          907.0963745117188,
+          223.36480712890625
+        ],
+        [
+          850.7642211914062,
+          223.36480712890625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "yellow",
+      "score": 0.7852503657341003,
+      "points": [
+        [
+          1033.9298095703125,
+          203.00177001953125
+        ],
+        [
+          1142.1202392578125,
+          203.00177001953125
+        ],
+        [
+          1142.1202392578125,
+          273.79119873046875
+        ],
+        [
+          1033.9298095703125,
+          273.79119873046875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "blue",
+      "score": 0.3597007989883423,
+      "points": [
+        [
+          872.2520751953125,
+          117.208740234375
+        ],
+        [
+          1005.6063232421875,
+          117.208740234375
+        ],
+        [
+          1005.6063232421875,
+          218.013427734375
+        ],
+        [
+          872.2520751953125,
+          218.013427734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "../images/image_0416013746_16.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

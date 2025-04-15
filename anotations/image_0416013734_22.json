@@ -1,0 +1,126 @@
+{
+  "version": "2.5.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yellow",
+      "score": 0.9284700155258179,
+      "points": [
+        [
+          916.5643310546875,
+          95.00765991210938
+        ],
+        [
+          962.0599365234375,
+          95.00765991210938
+        ],
+        [
+          962.0599365234375,
+          142.95608520507812
+        ],
+        [
+          916.5643310546875,
+          142.95608520507812
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "blue",
+      "score": 0.9224727153778076,
+      "points": [
+        [
+          1011.159912109375,
+          84.5611572265625
+        ],
+        [
+          1054.4736328125,
+          84.5611572265625
+        ],
+        [
+          1054.4736328125,
+          129.446533203125
+        ],
+        [
+          1011.159912109375,
+          129.446533203125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "black",
+      "score": 0.9019005298614502,
+      "points": [
+        [
+          894.467041015625,
+          54.41094970703125
+        ],
+        [
+          930.263671875,
+          54.41094970703125
+        ],
+        [
+          930.263671875,
+          90.87744140625
+        ],
+        [
+          894.467041015625,
+          90.87744140625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "red",
+      "score": 0.8891785144805908,
+      "points": [
+        [
+          1058.81640625,
+          96.56314086914062
+        ],
+        [
+          1103.12744140625,
+          96.56314086914062
+        ],
+        [
+          1103.12744140625,
+          142.38778686523438
+        ],
+        [
+          1058.81640625,
+          142.38778686523438
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "../images/image_0416013734_22.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

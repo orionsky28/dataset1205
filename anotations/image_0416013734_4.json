@@ -1,0 +1,97 @@
+{
+  "version": "2.5.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "red",
+      "score": 0.9199544787406921,
+      "points": [
+        [
+          1048.868408203125,
+          89.24502563476562
+        ],
+        [
+          1094.676513671875,
+          89.24502563476562
+        ],
+        [
+          1094.676513671875,
+          134.72097778320312
+        ],
+        [
+          1048.868408203125,
+          134.72097778320312
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "yellow",
+      "score": 0.6549492478370667,
+      "points": [
+        [
+          906.2156982421875,
+          60.701934814453125
+        ],
+        [
+          939.5965576171875,
+          60.701934814453125
+        ],
+        [
+          939.5965576171875,
+          95.91635131835938
+        ],
+        [
+          906.2156982421875,
+          95.91635131835938
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "yellow",
+      "score": 0.6347177624702454,
+      "points": [
+        [
+          1136.5157470703125,
+          93.12261962890625
+        ],
+        [
+          1180.5872802734375,
+          93.12261962890625
+        ],
+        [
+          1180.5872802734375,
+          143.40997314453125
+        ],
+        [
+          1136.5157470703125,
+          143.40997314453125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "../images/image_0416013734_4.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}
