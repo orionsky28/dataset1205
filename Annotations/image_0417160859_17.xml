@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_0417160859_17.png</filename>
+	<path>/home/firefly/Documents/1206/images/image_0417160859_17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>82</ymin>
+			<xmax>685</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>
