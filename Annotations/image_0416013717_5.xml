@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>image_0416013717_5.png</filename>
-	<path>/home/firefly/Documents/1205/images/image_0416013717_5.png</path>
+	<path>/home/zsm/Downloads/2203/images/image_0416013717_5.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,85 +14,13 @@
 	<object>
 		<name>red</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>587</xmin>
-			<ymin>101</ymin>
-			<xmax>636</xmax>
-			<ymax>153</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>683</xmin>
-			<ymin>125</ymin>
-			<xmax>734</xmax>
-			<ymax>179</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1123</xmin>
-			<ymin>69</ymin>
-			<xmax>1168</xmax>
-			<ymax>112</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blue</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>683</xmin>
-			<ymin>125</ymin>
-			<xmax>733</xmax>
-			<ymax>179</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>940</xmin>
-			<ymin>13</ymin>
-			<xmax>960</xmax>
-			<ymax>35</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blue</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>960</xmin>
-			<ymin>23</ymin>
-			<xmax>984</xmax>
-			<ymax>46</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name/>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>988</xmin>
-			<ymin>11</ymin>
-			<xmax>1013</xmax>
-			<ymax>33</ymax>
+			<xmin>1</xmin>
+			<ymin>55</ymin>
+			<xmax>568</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>image_0416013743_21.png</filename>
-	<path>/home/firefly/Documents/1205/images/image_0416013743_21.png</path>
+	<path>/home/zsm/Downloads/2203/images/image_0416013743_21.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,123 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>915</xmin>
-			<ymin>335</ymin>
-			<xmax>1023</xmax>
-			<ymax>444</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>blue</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>753</xmin>
-			<ymin>262</ymin>
-			<xmax>836</xmax>
-			<ymax>349</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yellow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>623</xmin>
-			<ymin>245</ymin>
-			<xmax>702</xmax>
-			<ymax>328</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>506</xmin>
-			<ymin>218</ymin>
-			<xmax>578</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>851</xmin>
-			<ymin>208</ymin>
-			<xmax>922</xmax>
-			<ymax>284</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>874</xmin>
-			<ymin>185</ymin>
-			<xmax>938</xmax>
-			<ymax>250</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>402</xmin>
-			<ymin>322</ymin>
-			<xmax>504</xmax>
-			<ymax>435</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>742</xmin>
-			<ymin>229</ymin>
-			<xmax>811</xmax>
-			<ymax>295</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>378</xmin>
-			<ymin>270</ymin>
-			<xmax>473</xmax>
-			<ymax>367</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blue</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>741</xmin>
-			<ymin>175</ymin>
-			<xmax>810</xmax>
-			<ymax>237</ymax>
+			<xmin>67</xmin>
+			<ymin>72</ymin>
+			<xmax>984</xmax>
+			<ymax>355</ymax>
 		</bndbox>
 	</object>
 </annotation>

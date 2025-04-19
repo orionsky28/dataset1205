@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>image_0416013748_21.png</filename>
-	<path>/home/firefly/Documents/1205/images/image_0416013748_21.png</path>
+	<path>/home/zsm/Downloads/2203/images/image_0416013748_21.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,87 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>600</xmin>
-			<ymin>353</ymin>
-			<xmax>697</xmax>
-			<ymax>456</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>red</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>498</xmin>
-			<ymin>333</ymin>
-			<xmax>598</xmax>
-			<ymax>433</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blue</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>933</xmin>
-			<ymin>206</ymin>
-			<xmax>1003</xmax>
-			<ymax>277</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1172</xmin>
-			<ymin>214</ymin>
-			<xmax>1256</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yellow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>615</xmin>
-			<ymin>292</ymin>
-			<xmax>702</xmax>
-			<ymax>380</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>935</xmin>
-			<ymin>114</ymin>
-			<xmax>985</xmax>
-			<ymax>167</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>blue</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>91</xmin>
-			<ymin>178</ymin>
-			<xmax>166</xmax>
-			<ymax>254</ymax>
+			<xmin>977</xmin>
+			<ymin>30</ymin>
+			<xmax>1280</xmax>
+			<ymax>117</ymax>
 		</bndbox>
 	</object>
 </annotation>

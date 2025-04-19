@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0416003923_3207.png</filename>
-	<path>/home/firefly/Documents/1204/images/0416003923_3207.png</path>
+	<path>/home/zsm/Downloads/2203/images/0416003923_3207.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>blue</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>159</xmin>
-			<ymin>139</ymin>
-			<xmax>200</xmax>
-			<ymax>180</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>red</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>109</ymin>
-			<xmax>6</xmax>
-			<ymax>145</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>black</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>523</xmin>
-			<ymin>193</ymin>
-			<xmax>583</xmax>
-			<ymax>254</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>red</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>370</xmin>
-			<ymin>38</ymin>
-			<xmax>387</xmax>
-			<ymax>55</ymax>
+			<ymin>54</ymin>
+			<xmax>270</xmax>
+			<ymax>106</ymax>
 		</bndbox>
 	</object>
 </annotation>
